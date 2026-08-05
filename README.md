@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Rinku Patel 👋
 
-<!--
-**rinku-r-patel/rinku-r-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Engineering Lead | React | Salesforce LWC
 
-Here are some ideas to get you started:
+Frontend Engineering Lead with 17+ years of experience building enterprise applications using React, JavaScript, TypeScript, Salesforce Lightning Web Components (LWC), HTML5, CSS3, and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- React.js
+- JavaScript (ES6+)
+- TypeScript
+- Salesforce Lightning Web Components (LWC)
+- Experience Cloud
+- Service Cloud
+- REST API Integration
+- HTML5 / CSS3
+- Accessibility (WCAG / ADA / Section 508)
+- Agile Development
+
+## AI-Assisted Development
+
+Experienced using:
+- GitHub Copilot
+- Cursor
+- Claude
+- ChatGPT
+
+for development, debugging, documentation, and improving engineering productivity.
+
+## Featured Projects
+
+🚀 React Employee Management App  
+🚀 React Hooks Practice  
+🚀 JavaScript Algorithms & Interview Prep  
+🚀 Salesforce LWC Components
