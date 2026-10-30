@@ -2,7 +2,7 @@
 
 ## Frontend Engineering Lead | React | Salesforce LWC
 
-Frontend Engineering Lead with 17+ years of experience building enterprise applications using React, JavaScript, TypeScript, Salesforce Lightning Web Components (LWC), HTML5, CSS3, and REST APIs.
+Frontend Engineering Lead with experience in building enterprise applications using React, JavaScript, TypeScript, Salesforce Lightning Web Components (LWC), HTML5, CSS3, and REST APIs.
 
 ## Technical Skills
 
